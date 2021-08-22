@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(185, 173, 173);
+}
+
+.container {
+    text-align: center;
+    margin: 23px;
+    padding: 30px 20px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    font-size: 34px;
+    text-align: right;
+    text-size-adjust: inherit;
+}
+
+button {
+    border-radius: 17px;
+    font-size: 30px;
+    background: lightgrey;
+    width: 104px;
+    height: 55px;
+}
+
+.calculator {
+    border-radius: 26px;
+    padding: 10px 10px;
+    display: inline-block;
+    margin: auto;
+    background-color: gold;
+    box-shadow: 10px 10px 5px rgb(10, 10, 9);
+}
+
+h1 {
+    font-style: revert;
+    font-family: inherit;
+}
